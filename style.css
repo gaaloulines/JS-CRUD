@@ -1,0 +1,34 @@
+/* Custom styles */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.container {
+    max-width: 800px;
+}
+
+#total {
+    padding: 5px;
+    font-weight: bold;
+}
+
+#submit {
+    width: 100%;
+}
+
+#delall {
+    display: flex;
+    justify-content: flex-end;
+}
+
+table th, table td {
+    text-align: center;
+}
+
+button {
+    width: 100%;
+}
+
+#searchplace {
+    width: 100%;
+}
